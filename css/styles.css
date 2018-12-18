@@ -1,8 +1,50 @@
-
-
-.jumbotron{
-  background-image: url("../img/italian.jpg");
+.jumbotron {
+  background-image: url("../img/food_cover.jpg");
+  height: 50%;
   color: #E6B0AA;
-  text-align: center;
+
   font-weight: bold;
+}
+
+.foodphoto {
+  width: 300px;
+  length: 450px;
+  object-fit: cover;
+}
+
+.panel-body {
+    padding: 0 !important;
+}
+
+.panel-heading {
+  background-color: inherit;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.btn {
+  border-radius: 10em;
+}
+
+.panel-heading{
+  resize: both;
+}
+
+.form-control {
+  /* padding: 3; */
+  position: absolute;
+  border: 4px solid #ccc;
+  -webkit-border-radius: 5px;
+  border-radius: 4px;
+  /* height: 15px;
+  width: 50px; */
+}
+.well{
+  text-align: center;
+  background-image: url("../img/wood.jpg");
+  width: 50%
+
+}
+body{
+  background-color: #3B2B0B;
 }
