@@ -1,24 +1,15 @@
 .jumbotron {
   background-image: url("../img/food_cover.jpg");
   height: 50%;
-  color: #E6B0AA;
-
+  color: #FFC300;
+  text-align: center;
   font-weight: bold;
+
 }
 
-.foodphoto {
-  width: 300px;
-  length: 450px;
-  object-fit: cover;
-}
-
-.panel-body {
-    padding: 0 !important;
-}
-
-.panel-heading {
-  background-color: inherit;
-  font-family: sans-serif;
+h1{
+  font-family: 'Charm', cursive;
+  font-size: 200%;
   font-weight: bold;
 }
 
@@ -26,8 +17,9 @@
   border-radius: 10em;
 }
 
-.panel-heading{
-  resize: both;
+img{
+  width: 300px;
+  height: 450px;
 }
 
 .form-control {
@@ -40,11 +32,26 @@
   width: 50px; */
 }
 .well{
-  text-align: center;
-  background-image: url("../img/wood.jpg");
+  float: right;
+
   width: 50%
 
 }
 body{
   background-color: #3B2B0B;
+}
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.one{
+  text-align: left;
+  color: #FFC300;
+  font-weight: 1000;
+  font-size: 17px;
 }
