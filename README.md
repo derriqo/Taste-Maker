@@ -45,7 +45,7 @@ $ npm start
 ---
 
 **User Story**
-As a user I want to be able to reduce broad menu options to a select list of dishes based on my preferences. 
+As a user I want to be able to reduce broad menu options to a select list of dishes based on my preferences.
 
 | Inputs|Outputs|User Behavior|
 |-------|-------|-------------|
@@ -66,10 +66,6 @@ None at the moment, but would love to hear your feedback!
 ## Team
 ---
 Created by Derrick William, Sharon Adino, Mara Jackson, Victor Oyugi, Stephanie Winam
-<<<<<<< HEAD
-=======
-
->>>>>>> 6dea3554fbe7594d306ab0fc2d3e078b43ce58b9
 
 
 ## License
