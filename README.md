@@ -61,7 +61,7 @@ None at the moment, but would love to hear your feedback!
 
 ## Team
 ---
-Created by a team from the Moringa School
+Created by Derrick William, Sharon Adino, Mara Jackson, Victor Oyugi, Stephanie Winam
 
 
 
