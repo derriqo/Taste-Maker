@@ -43,6 +43,10 @@ $ npm start
 
 ## Behaviour Driven Development
 ---
+
+**User Story**
+As a user I want to be able to reduce broad menu options to a select list of dishes based on my preferences. 
+
 | Inputs|Outputs|User Behavior|
 |-------|-------|-------------|
 | Click button    |  Navigation to search page | User elects to begin search |
