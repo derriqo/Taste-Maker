@@ -43,11 +43,11 @@ $ npm start
 
 ## Behaviour Driven Development
 ---
-| Inputs|Outputs|User Behaviour|
-|---------------------------------------|
-| Click button    |  Navigation to search page | User elects to begin search |
-| Drop-down menu ingredient selected | Navigation to recipe page | Preference input |
-| Return button         |   Takes user back to home page| User willingness to participate in process again|
+Inputs: Click button, Drop-down menu ingredient selected, Return menu
+
+Outputs: Navigation to search page, Navigation to recipe page, Takes user back to home page
+
+User Behavior: User elects to begin search, Preference input, User willingness to participate in process again
 
 
 ## Support and contact details
@@ -60,7 +60,7 @@ None at the moment, but would love to hear your feedback!
 
 ## Team
 ---
-Created by a team from the Moringa School
+Created by a Derrick William, Sharon Adino, Mara Jackson, Victor Oyugi, Stephanie Winam
 
 
 
