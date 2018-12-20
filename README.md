@@ -1,5 +1,3 @@
-![TASTE-MAKER]()
-
 # [Taste-Maker]()
 
 # Table of contents
