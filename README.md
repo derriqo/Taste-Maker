@@ -21,7 +21,7 @@ There are too many food choices online and food lovers seek convenience in choos
 The websites that offer take-away food options like Yum, Uber Eats and Jumia foods have focused on importing menus that are not simplified.
 
 The application allows the user to:
-* Simply the process of food choice
+* Simplify the process of food choice
 * Understand the basic ingredients in non-local cuisines, and order foods from these restaurants.
 * Acquire a palate for different tastes and cuisines. For example, that having Chop Suey for dinner...is simply chinese meat stew.
 
