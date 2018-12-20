@@ -22,7 +22,7 @@ h1 {
   background-color: #FFC300
 }
 
-img {
+.photo {
   width: 200px;
   height: 350px;
   /* border: 1px solid black; */
