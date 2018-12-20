@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/bootstrap.css">
+  <link href="css/styles.css" rel="stylesheet" type="text/css">
+  <style>
+    /* .p{
+  text-shadow: 2px;
+  text
+}
+.jumbotron{
+  background-image: url(images/food_cover.jpg);
+  color: #ffc300;
+} */
+    .dropbtn {
+      background-color: #000000;
+      color: white;
+      padding: 16px;
+      font-size: 20px;
+      border: none;
+      cursor: pointer;
+    }
+
+    .dropbtn:hover,
+    .dropbtn:focus {
+      background-color: #DAA520;
+    }
+
+
+
+    .dropdown {
+      position: relative;
+      display: inline-block;
+    }
+
+    .dropdown-content {
+      display: none;
+      position: center;
+      background-color: #f6f6f6;
+      min-width: 230px;
+      overflow: auto;
+      border: 1px solid #ddd;
+      z-index: 1;
+    }
+
+    .dropdown-content a {
+      color: black;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+    }
+
+    .dropdown a:hover {
+      background-color: #ddd;
+    }
+
+    .show {
+      display: block;
+    }
+  </style>
+</head>
+
+<body class="back">
+  <div class="jumbotron">
+    <h2>
+      <font size="10"><strong>Taste Maker Ingredient Selector</strong>
+    </h2>
+    <p>
+      <font size="5"><strong>Select the dropdown option to read a list of our available ingredients. Select the category you'd like to choose your meal from.</strong>
+    </p>
+
+
+
+    <div class="dropdown">
+      <button onclick="myFunction()" class="dropbtn">Select your meal category</button>
+      <div id="myDropdown" class="dropdown-content">
+        <a href="indexbeef.html">Beef</a>
+        <a href="indexchicken.html">Chicken</a>
+        <a href="indexrice.html">Rice</a>
+        <a href="indexveg.html">Vegetables</a>
+        <a href="indexfish.html">Fish</a>
+      </div>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+    </div>
+
+
+    <script>
+      /* When the user clicks on the button,
+toggle between hiding and showing the dropdown content */
+      function myFunction() {
+        document.getElementById("myDropdown").classList.toggle("show");
+      }
+
+      function filterFunction() {
+        var input, filter, ul, li, a, i;
+        input = document.getElementById("myInput");
+        filter = input.value.toUpperCase();
+        div = document.getElementById("myDropdown");
+        a = div.getElementsByTagName("a");
+        for (i = 0; i < a.length; i++) {
+          if (a[i].innerHTML.toUpperCase().indexOf(filter) > -1) {
+            a[i].style.display = "";
+          } else {
+            a[i].style.display = "none";
+          }
+        }
+      }
+    </script>
+  </div>
+</body>
+
+</html>
