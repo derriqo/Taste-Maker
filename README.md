@@ -66,6 +66,10 @@ None at the moment, but would love to hear your feedback!
 ## Team
 ---
 Created by Derrick William, Sharon Adino, Mara Jackson, Victor Oyugi, Stephanie Winam
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6dea3554fbe7594d306ab0fc2d3e078b43ce58b9
 
 
 ## License
