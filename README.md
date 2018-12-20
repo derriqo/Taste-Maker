@@ -39,8 +39,8 @@ Project is created with:
 ---
 To run this project, please follow the following instructions.
 -   Get access to the internet
--   Sign into your github pages. Set up would require access to github pages; the webpage uses an index file linked on github pages. This would require membership and access to the Adino Olago repository.
--   Search for Derriko on github and select the ,Quiz repository.
+-   Sign into your github pages. Set up would require access to github pages; the webpage uses an index file linked on github pages. This would require membership and access to the Derriqo repository.
+-   Search for derriqo on the github pages and select the Taste-Maker repository.
 -   Git-hub Webpage is linked to the title of the file.
 
 ## Behaviour Driven Development
