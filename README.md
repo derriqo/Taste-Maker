@@ -43,11 +43,12 @@ $ npm start
 
 ## Behaviour Driven Development
 ---
-Inputs: Click button, Drop-down menu ingredient selected, Return button
+| Inputs|Outputs|User Behaviour|
+|---------------------------------------|
+| Click button    |  Navigation to search page | User elects to begin search |
+| Drop-down menu ingredient selected | Navigation to recipe page | Preference input |
+| Return button         |   Takes user back to home page| User willingness to participate in process again|
 
-Outputs: Navigation to search page, Navigation to recipe page, Takes user back to home page
-
-User Behavior: User elects to begin search, Preference input, User willingness to participate in process again
 
 
 ## Support and contact details
