@@ -1,5 +1,6 @@
+# ![Taste-Maker](img/README.png)
 
-# [Taste-Maker]()
+# TASTEMAKER
 
 
 # Table of contents
@@ -67,6 +68,8 @@ None at the moment, but would love to hear your feedback!
 
 ## Team
 ---
+
+Created by Derrick William, Sharon Adino, Mara Jackson, Victor Oyugi, Stephanie Winam
 
 Created by Derrick William, Sharon Adino, Mara Jackson, Victor Oyugi, Stephanie Winam
 
