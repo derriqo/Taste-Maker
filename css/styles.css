@@ -2,8 +2,15 @@
   background-image: url("../img/food_cover.jpg");
   height: 50%;
   color: #FFC300;
+
   text-align: center;
+  font-size: 3em;
   font-weight: bold;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
 
 }
 
@@ -11,15 +18,19 @@ h1{
   font-family: 'Charm', cursive;
   font-size: 200%;
   font-weight: bold;
+
 }
 
-.btn {
+.btn:hover {
   border-radius: 10em;
+  background-color:#FFC300
 }
 
 img{
-  width: 300px;
-  height: 450px;
+  width: 200px;
+  height: 350px;
+
+ /* border: 1px solid black; */
 }
 
 .form-control {
@@ -38,7 +49,7 @@ img{
 
 }
 body{
-  background-color: #3B2B0B;
+background-image: url("../img/28f18c5e0e8f9c28_6413-w618-h324-b0-p0--paint.jpg");
 }
 .text-block {
   position: absolute;
@@ -49,9 +60,38 @@ body{
   padding-left: 20px;
   padding-right: 20px;
 }
-.one{
+#one{
   text-align: left;
   color: #FFC300;
   font-weight: 1000;
   font-size: 17px;
+  border: 1px solid black;
+  background-image: url("../img/wood.jpg");
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px
+}
+.next{
+  float: right;
+}
+
+img {
+  width:550px;
+  height: auto;
+}
+#beef {
+  background-color: lightyellow;
+  /* background-image: url("../img/food_cover.jpg"); */
+}
+h1 {
+  font-family: Georgia;
+}
+h2 {
+  font-family: Georgia;
+  color: black;
+
+}
+#index{
+  color: #FFC300;
 }
