@@ -64,7 +64,6 @@ None at the moment, but would love to hear your feedback!
 Created by a team from the Moringa School
 
 
-
 ## License
 ---
 The MIT License (MIT)
