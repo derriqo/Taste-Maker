@@ -1,4 +1,6 @@
+
 # [Taste-Maker]()
+
 
 # Table of contents
 ***
@@ -19,7 +21,9 @@ There are too many food choices online and food lovers seek convenience in choos
 The websites that offer take-away food options like Yum, Uber Eats and Jumia foods have focused on importing menus that are not simplified.
 
 The application allows the user to:
+
 * Simplify the process of food choice
+
 * Understand the basic ingredients in non-local cuisines, and order foods from these restaurants.
 * Acquire a palate for different tastes and cuisines. For example, that having Chop Suey for dinner...is simply chinese meat stew.
 
@@ -34,12 +38,10 @@ Project is created with:
 ## Setup
 ---
 To run this project, please follow the following instructions.
-
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+-   Get access to the internet
+-   Sign into your github pages. Set up would require access to github pages; the webpage uses an index file linked on github pages. This would require membership and access to the Adino Olago repository.
+-   Search for Derriko on github and select the ,Quiz repository.
+-   Git-hub Webpage is linked to the title of the file.
 
 ## Behaviour Driven Development
 ---
@@ -65,8 +67,8 @@ None at the moment, but would love to hear your feedback!
 
 ## Team
 ---
-Created by Derrick William, Sharon Adino, Mara Jackson, Victor Oyugi, Stephanie Winam
 
+Created by Derrick William, Sharon Adino, Mara Jackson, Victor Oyugi, Stephanie Winam
 
 
 ## License

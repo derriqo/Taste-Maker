@@ -87,3 +87,28 @@ h2 {
 #index {
   color: #FFC300;
 }
+ ul{
+  text-align: right;
+}
+#navbar li{
+  display: inline-block;
+}
+#navbar a{
+  text-transform: uppercase;
+  text-decoration: none;
+  display: block;
+  font-size: 22px;
+  color: #FFC300;
+  text-align: center;
+  padding: 14px 16px;
+}
+#navbar{
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+#navbar a:hover{
+  color:black;
+  background-color: #A0522D;
+}
