@@ -44,6 +44,9 @@ To run this project, please follow the following instructions.
 -   Search for derriqo on the github pages and select the Taste-Maker repository.
 -   Git-hub Webpage is linked to the title of the file.
 
+## GitHub Link
+https://derriqo.github.io/Taste-Maker/
+
 ## Behaviour Driven Development
 ---
 
